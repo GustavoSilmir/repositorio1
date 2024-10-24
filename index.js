@@ -27,6 +27,7 @@ import PdfView from './PdfView';
 
 export default class Pdf extends Component {
     <h1>Ola </h1>
+    <h2>Mundo</h2>
 
     static propTypes = {
         ...ViewPropTypes,
